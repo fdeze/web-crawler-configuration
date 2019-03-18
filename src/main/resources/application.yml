@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/tamakt/web-crawler-config.git
+          uri: https://github.com/fdeze/web-crawler-config.git
